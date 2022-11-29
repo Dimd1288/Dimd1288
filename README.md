@@ -1,10 +1,3 @@
-<a href="https://www.freepik.com/free-vector/stream-binary-code-design_13311414.htm#query=programming&position=12&from_view=search&track=sph">
-  <img width="900" height="auto" align="center" alt="Баннер" src="/Dimd1288/Dimd1288/raw/main/v627-aew-41-technologybackground.jpg" style="max-width: 100%;">
-
-  Image by rawpixel.com
-</a>
-
-
 ### Hi there 👋
 
 <!--
