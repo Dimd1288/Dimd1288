@@ -30,7 +30,9 @@
 
 ## Для связи
 
-
+<a href="t.me/dymonster"><img width="40" src="https://github.com/Dimd1288/Dimd1288/blob/main/telegram.svg"></a>
+<a href="https://www.linkedin.com/in/ddomrachev/"><img width="40" src="https://github.com/Dimd1288/Dimd1288/blob/main/linkedin.svg"></a>
+<a href="mailto:dimd1288@gmail.com"><img width="40" src="https://github.com/Dimd1288/Dimd1288/blob/main/gmail.svg"></a>
 <!--
 **Dimd1288/Dimd1288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
